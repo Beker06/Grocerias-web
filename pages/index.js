@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="h-full flex flex-row items-center">
-        <Link href="/login">
+        <Link href="/signin">
           Login
         </Link>
       </div>
